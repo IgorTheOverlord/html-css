@@ -1,2 +1,2 @@
 # html-css
-Little package for little website projects
+A little repository for little website projects
